@@ -1,4 +1,4 @@
-# react-fcomponents-tim
+# react-tim
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-fcomponents-tim)
 
